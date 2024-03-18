@@ -1,0 +1,40 @@
+body{
+    background-color: #C7DCA7;
+}
+#heading{
+    margin-top: 3rem;
+    text-align: center;
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(41, 114, 178);
+    font-size: 1.8rem;
+
+}
+.img-container{
+    margin-top: 5rem;
+    display: flex;
+    gap:6rem;
+    justify-content: center;
+
+}
+img{
+    height: 15rem;
+}
+.btn{
+    margin-top: 5rem;
+    text-align: center;
+}
+input{
+    font-size: 2rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(195, 229, 255);
+    border-radius: 3rem;
+    padding: 0.5rem;
+
+}
+p{
+    margin-left: 3.5rem;
+    font-size: 2rem;
+    color: rgb(112, 16, 138);
+}
